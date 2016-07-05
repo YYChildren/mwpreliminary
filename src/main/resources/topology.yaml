@@ -1,0 +1,15 @@
+# meta.topic : null
+meta.consumer.group : "43676k21xf" 
+meta.subexpress : "*"
+# meta.nameserver : null
+meta.pull.interval.ms : 5
+meta.max.fail.times : 5
+meta.internal.queue.size : 256
+meta.batch.send.msg.size : 32
+meta.batch.pull.msg.size : 32
+meta.pull.thread.num : 4
+meta.spout.auto.ack : false
+meta.spout.flow.control : true
+# format is "yyyyMMddHHmmss"
+# meta.consumer.start.timestamp : null
+# meta.extra.properties : null
